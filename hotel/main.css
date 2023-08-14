@@ -1,0 +1,40 @@
+body {
+  position: relative;
+}
+
+.home {
+  background-image: url(img/alberta-main-image.jpg);
+  height: 100vh;
+  width: 100%;
+}
+
+.row form {
+  max-width: 50%;
+}
+
+form input {
+  margin-top: 2px;
+}
+
+form input:hover {
+  transform: scale(1.02);
+}
+
+label {
+  color: #fff;
+}
+
+.history img {
+  max-width: 85%;
+}
+
+h1,
+h2 {
+  text-align: center;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.card {
+  margin: 0 auto;
+}
